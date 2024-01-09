@@ -20,6 +20,10 @@ i made this PCB because i don't want to make makeshifts anymore 💀
 
 ### idk what extra usage are but data or sensing goes to small (data) connectors and powered load goes to main connector.
 
+# Purchase PCBs
+- i don't sell unassembled PCBs but you can send the gerber to [JLCPCB](https://jlcpcb.com) or [PCBWay](https://www.pcbway.com)
+- Also [some AMASS XT30 2+2s in AliExpress](https://www.aliexpress.com/item/1005003667017211.html)
+
 # BOMs
 
 ## Board (excluding cables and solder)
