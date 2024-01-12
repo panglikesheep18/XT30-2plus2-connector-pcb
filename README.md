@@ -5,6 +5,9 @@ a PCB designed to keep small connectors from failing when attached
 
 i made this PCB because i don't want to make makeshifts anymore 💀
 
+# Image
+<img width="50%" alt="image of XT30-2plus2-connector-pcb" src="https://github.com/panglikesheep18/XT30-2plus2-connector-pcb/assets/94123276/b69ac5cc-3a39-408f-a401-fbad826b1f9b">
+
 # Features
 - holds small (data) connectors of male side of XT30 2+2 so it cannot be slipped of connecting thus breaking the connector
 
@@ -16,6 +19,10 @@ i made this PCB because i don't want to make makeshifts anymore 💀
 ### 3D printers: swappable hotends (thermistor connects to small (data) connectors and the heater core connects to main connector)
 
 ### idk what extra usage are but data or sensing goes to small (data) connectors and powered load goes to main connector.
+
+# Purchase PCBs
+- i don't sell unassembled PCBs but you can send the gerber to [JLCPCB](https://jlcpcb.com) or [PCBWay](https://www.pcbway.com)
+- Also [some AMASS XT30 2+2s in AliExpress](https://www.aliexpress.com/item/1005003667017211.html)
 
 # BOMs
 
