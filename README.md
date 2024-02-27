@@ -1,4 +1,5 @@
 # XT30-2plus2-connector-pcb
+
 a PCB designed to keep small connectors from failing when attached
 
 i made this PCB because i don't want to make makeshifts anymore 💀
@@ -30,10 +31,10 @@ i made this PCB because i don't want to make makeshifts anymore 💀
 ##Things listed below can be found above (in "Purchase assemblies")
 
 ## Board (excluding cables and solder)
-- 1X male side of XT30 2+2
+- 1X male side of XT30(2+2) or XT30U(2+2)
 
 ## Load (excluding cables and solder)
-- 1X female side of XT30 2+2
+- 1X female side of XT30(2+2) or XT30APB(2+2)
 
 # Assembly procedure
 **Avoid pre-tinning the cable and PCB until the cable has fit through the board, unless you know what you're doing, otherwise you'll have a hard time solding the cable to the PCB.**
