@@ -6,7 +6,6 @@ i made this PCB because i don't want to make makeshifts anymore 💀
 
 # Image
 <img width=60% alt="Board in KiCad (3 pieces per boards)" src="https://github.com/panglikesheep18/XT30-2plus2-connector-pcb/assets/94123276/c60d9b9e-fdc7-4258-9edc-2bf1f7e5e212">
-<img width=60% alt="Physical products (Left: fully assembled with AMASS XT30 2+2, Right: board on top of AMASS XT30 2+2 but without soldering)" src="https://github.com/panglikesheep18/XT30-2plus2-connector-pcb/assets/94123276/f6be77a9-36d1-4d34-b610-1ed9c4f75b7c">
 
 
 
